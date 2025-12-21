@@ -1,0 +1,8 @@
+title: Sukirt
+markdown: kramdown
+kramdown:
+  input: GFM
+collections:
+  writings:
+    output: true
+    permalink: /writings/:name/
