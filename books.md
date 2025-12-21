@@ -22,7 +22,7 @@ About Singapore's greatest ever comic.
 </div>
 
 <div class="book">
-<img src="/assets/images/books/sophies_wrold.jpg">
+<img src="/assets/images/books/sophies_world.jpg">
 <div class="note">
 <b>Sophie's World</b><br><br>
 About Singapore's greatest ever comic.
@@ -30,3 +30,4 @@ About Singapore's greatest ever comic.
 </div>
 
 </div>
+
