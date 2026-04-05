@@ -150,20 +150,12 @@ h3 {
     color: #aaa;
   }
 }
-/* ---------- Book Grid ---------- */
-
-.book-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-  gap: 25px;
-  margin-top: 30px;
-}
+/* ---------- Books ---------- */
 
 .book {
   cursor: pointer;
   border-radius: 4px;
   overflow: hidden;
-  transition: opacity 0.2s ease;
 }
 
 .book img {
@@ -171,22 +163,16 @@ h3 {
   height: auto;
   display: block;
   border-radius: 4px;
+  transition: opacity 0.2s ease;
 }
 
-.book .book-title {
-  font-size: 13px;
-  margin-top: 8px;
-  color: #555;
-}
-
-.book:hover {
+.book:hover img {
   opacity: 0.8;
 }
 
 .book.active {
   outline: 2px solid #1a1a1a;
   outline-offset: 2px;
-  border-radius: 4px;
 }
 
 .book-notes {
@@ -202,10 +188,6 @@ h3 {
 }
 
 @media (prefers-color-scheme: dark) {
-  .book .book-title {
-    color: #aaa;
-  }
-
   .book.active {
     outline-color: #eaeaea;
   }
