@@ -3,21 +3,18 @@ layout: default
 title: Books
 ---
 
-<div class="book-grid">
+<div class="grid">
 
 <div class="book" onclick="toggleBook(this)">
 <img src="/assets/images/books/tomorrow_x3.jpg">
-<div class="book-title">Tomorrow, and Tomorrow, and Tomorrow</div>
 </div>
 
 <div class="book" onclick="toggleBook(this)">
 <img src="/assets/images/books/hock_chye.jpg">
-<div class="book-title">Hock Chye</div>
 </div>
 
 <div class="book" onclick="toggleBook(this)">
 <img src="/assets/images/books/sophies_wrold.jpg">
-<div class="book-title">Sophie's World</div>
 </div>
 
 </div>
