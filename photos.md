@@ -1,16 +1,32 @@
 ---
 layout: default
-title: Research
+title: Photos
 ---
 
-## Physics-Informed Neural Networks
-<img src="/assets/images/research/pinns.png">
+<div class="photo-grid">
 
-Flow past cylinders, drag estimation, spectral bias.
+<div class="photo-tile">
+<img src="/assets/images/photos/placeholder.jpg" alt="">
+</div>
 
----
+<div class="photo-tile">
+<img src="/assets/images/photos/placeholder.jpg" alt="">
+</div>
 
-## Vascular Modeling
-<img src="/assets/images/research/vessels.png">
+<div class="photo-tile">
+<img src="/assets/images/photos/placeholder.jpg" alt="">
+</div>
 
-Learning geometry-aware representations from medical data.
+<div class="photo-tile">
+<img src="/assets/images/photos/placeholder.jpg" alt="">
+</div>
+
+<div class="photo-tile">
+<img src="/assets/images/photos/placeholder.jpg" alt="">
+</div>
+
+<div class="photo-tile">
+<img src="/assets/images/photos/placeholder.jpg" alt="">
+</div>
+
+</div>
