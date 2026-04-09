@@ -21,7 +21,7 @@ title: Books
 
 <div class="book-notes" id="note-0" style="display:none;">
 <b>Tomorrow, and Tomorrow, and Tomorrow</b>
-<p>Different book, a view into the world of gamers.</p>
+<p>Tomorrow, and Tomorrow, and Tomorrow had been sitting on my bookshelf for a while. I finally picked it up when my apartment’s book club chose it as the book of the month. It’s a fascinating read—it offered me a window into the gaming world. It also helped me understand how many games have become a form of artistic expression, a way for people to build communities and find a sense of belonging, and how they can offer comfort when reality feels too difficult.</p>
 </div>
 
 <div class="book-notes" id="note-1" style="display:none;">
