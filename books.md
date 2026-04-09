@@ -25,8 +25,8 @@ title: Books
 </div>
 
 <div class="book-notes" id="note-1" style="display:none;">
-<b>Hock Chye</b>
-<p>About Singapore's greatest ever comic.</p>
+<b>The Art of Charlie Chan Hock Chye</b>
+<p>The Art of Charlie Chan Hock Chye is an interesting book. It’s a comic, which immediately sets it apart from the books I usually read. It tells the story of Charlie Chan Hock Chye, a fictional cartoonist, from his early days in colonial life to the present day. Along the way, it offers a fascinating window into life in colonial Singapore—its history, culture, and politics.</p>
 </div>
 
 <div class="book-notes" id="note-2" style="display:none;">
