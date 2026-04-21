@@ -18,7 +18,7 @@ title: Books
 </div>
 
 <div class="book" onclick="toggleBook(this)">
-<img src="/assets/images/books/yellow_face.jpg">
+<img src="/assets/images/books/yellowface.jpg">
 </div>
 
 <div class="book" onclick="toggleBook(this)">
