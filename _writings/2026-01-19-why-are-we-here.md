@@ -21,7 +21,7 @@ Let's begin with what we know with a high degree of confidence.
 
 The current best model for the formation of the universe is the Big Bang theory. About 13.8 billion years ago, the universe began in an extremely hot, dense state. It has been expanding ever since. Empirical evidence, such as cosmic microwave background radiation and the redshift of distant galaxies, strongly supports this theory.
 
-Still, many questions remain unanswered. We do not know what caused the Big Bang, what—if anything—happened before it, or whether time itself existed prior to that moment. Our current laws of physics break down at the singularity, and we lack a unified theory capable of describing the universe's earliest instant. The ultimate origin remains one of the biggest unanswered questions in science.
+Still, many questions remain unanswered. We do not know what caused the Big Bang, what (if anything) happened before it, or whether time itself existed prior to that moment. Our current laws of physics break down at the singularity, and we lack a unified theory capable of describing the universe's earliest instant. The ultimate origin remains one of the biggest unanswered questions in science.
 
 That said, the evolution of the universe from a fraction of a second onward is well supported.
 
