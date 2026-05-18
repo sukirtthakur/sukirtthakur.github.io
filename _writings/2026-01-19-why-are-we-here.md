@@ -80,4 +80,3 @@ And yet our feelings, relationships, and experiences are profoundly real.
 We have the opportunity to live rich and meaningful lives.
 
 Spend time with the people who make you happy. Pursue the things that bring you joy. Work toward your ambitions, but do not lose sight of the larger picture. Create as many memories as you can. Improve as many lives as you can. Leave the world a little better than you found it.
-```
