@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Why Are We Here? Thoughts at the Beginning of 2026
