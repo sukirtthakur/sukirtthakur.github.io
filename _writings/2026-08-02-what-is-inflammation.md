@@ -103,7 +103,7 @@ Some of the strongest evidence supports:
     - Fermented foods like yogurt or kefir
     - Limit ultra-processed foods and foods high in trans fats.
 
-    Be cautious of supplements marketed as "anti-inflammatory." Among those with the best evidence are omega-3 fatty acids (particularly if dietary intake is low), vitamin D for people who are deficient, and turmeric (curcumin), although their benefits are generally modest.
+    Be cautious of supplements marketed as "anti-inflammatory." Omega-3 fatty acids have good evidence, particularly for people who consume little fatty fish, and vitamin D supplementation is beneficial for people who are deficient. Curcumin (from turmeric) also shows promise, but its effects are generally modest and depend on the formulation because it is poorly absorbed on its own.
 
 - **Exercise regularly**
 
