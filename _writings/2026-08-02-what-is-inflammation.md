@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inflammation: What It Is and Why It Matters More Than You Think
+title: Inflammation - What It Is and Why It Matters More Than You Think
 date: 2026-08-02
 tags: [health, nutrition]
 ---
