@@ -7,6 +7,12 @@ tags: [health, nutrition]
 
 Remember the last time you had a cut on your finger? Within seconds, damaged cells released signaling molecules like histamine and cytokines. Nearby blood vessels dilated and became leakier, causing redness, heat, and swelling. White blood cells entered the tissue from the bloodstream to kill bacteria, remove dead tissue, and coordinate repair. Once healing was complete, anti-inflammatory signals shut everything down. This is what a healthy inflammatory response looks like: a clear beginning, a middle, and an end.
 
+I decided to write about inflammation because I kept hearing about it everywhere. My dentist told me gum disease was caused by inflammation. Social media was full of "anti-inflammatory" diets and supplements. Articles claimed that chronic inflammation was at the root of heart disease, diabetes, Alzheimer's, and even aging itself.
+
+At the same time, if I'm honest, I didn't really understand what inflammation actually was. Concepts like blood sugar spikes are relatively easy to grasp—you can see the cause and effect, and you can even measure them with a continuous glucose monitor. Inflammation felt different. It was described as the hidden cause of almost everything, I was constantly being told to buy products that supposedly reduced it, and yet I had no intuitive way of understanding or measuring it.
+
+So I decided to dig into the scientific literature. This article is my attempt to answer the questions I had: What exactly is inflammation? How does food influence it? Can it actually be measured? And when does a normal, healthy inflammatory response become something that harms us?
+
 # What is inflammation?
 
 At its core, inflammation is your immune system's repair-and-defense mechanism. Whenever your body detects an infection, injury, or other threat, it dispatches white blood cells, signaling proteins, and increases blood flow to isolate the problem, eliminate the threat, and repair the damaged tissue.
