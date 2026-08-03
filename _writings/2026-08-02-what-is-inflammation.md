@@ -7,8 +7,6 @@ tags: [health, nutrition]
 
 Remember the last time you had a cut on your finger? Within seconds, damaged cells released signaling molecules like histamine and cytokines. Nearby blood vessels dilated and became leakier, causing redness, heat, and swelling. White blood cells entered the tissue from the bloodstream to kill bacteria, remove dead tissue, and coordinate repair. Once healing was complete, anti-inflammatory signals shut everything down. This is what a healthy inflammatory response looks like: a clear beginning, a middle, and an end.
 
-Inflammation has earned a bad reputation, but that's only half the story. Without it, even a small cut could become life-threatening. The problem isn't inflammation itself—it's when the response doesn't switch off.
-
 # What is inflammation?
 
 At its core, inflammation is your immune system's repair-and-defense mechanism. Whenever your body detects an infection, injury, or other threat, it dispatches white blood cells, signaling proteins, and increases blood flow to isolate the problem, eliminate the threat, and repair the damaged tissue.
