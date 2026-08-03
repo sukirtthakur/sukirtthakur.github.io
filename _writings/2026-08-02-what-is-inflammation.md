@@ -11,7 +11,7 @@ Remember the last time you had a cut on your finger? Within seconds, damaged cel
 
 At its core, inflammation is your immune system's repair-and-defense mechanism. Whenever your body detects an infection, injury, or other threat, it dispatches white blood cells, signaling proteins, and increases blood flow to isolate the problem, eliminate the threat, and repair the damaged tissue.
 
-Inflammation is not a disease—it is a biological process. Whether it helps or harms depends largely on its intensity, duration, and context.
+Inflammation is a biological process - not a malady. Whether it helps or harms depends largely on its intensity, duration, and context.
 
 Acute inflammation is essential for survival. It is fast, short-lived, and protective, like the swelling after a sprained ankle or a fever during a cold.
 
@@ -73,17 +73,17 @@ Possible symptoms include:
 - Poor sleep
 - Low mood or increased anxiety
 
-These symptoms are **not specific to chronic inflammation** and can have many other causes. If they persist, it's worth discussing them with your healthcare provider.
+These symptoms are not specific to chronic inflammation and can have many other causes. If they persist, it's worth discussing them with your healthcare provider.
 
 Some commonly used clinical markers include:
 
-- **High-sensitivity C-reactive protein (hs-CRP)** is one of the most widely used markers of systemic inflammation. Values below **1 mg/L** are generally considered low cardiovascular risk, **1–3 mg/L** average risk, and **above 3 mg/L** elevated risk. However, infections, injuries, and many medical conditions can temporarily raise hs-CRP, so it should always be interpreted in clinical context.
+- **High-sensitivity C-reactive protein (hs-CRP)** is one of the most widely used markers of systemic inflammation. Values below 1 mg/L are generally considered low cardiovascular risk, 1–3 mg/L average risk, and above 3 mg/L elevated risk. However, infections, injuries, and many medical conditions can temporarily raise hs-CRP, so it should always be interpreted in clinical context.
 
-- **Metabolic health markers.** Fasting glucose, HbA1c, lipid profile, blood pressure, waist circumference, and liver function tests often move alongside chronic inflammation because metabolic dysfunction and inflammation are closely intertwined.
+- **Metabolic health markers.** Fasting glucose, HbA1c, lipid profile, blood pressure, and liver function tests often move alongside chronic inflammation because metabolic dysfunction and inflammation are closely intertwined.
 
 # How to reduce chronic inflammation
 
-The encouraging news is that many of the habits that reduce chronic inflammation are the same habits that improve overall health. There is no single "anti-inflammatory" food or supplement. Instead, the goal is to create an environment where your immune system spends less time in a constant state of activation.
+Since chronic inflammation is an issue related with lifestyle, all of us already know what the solution is. To minimize chronic inflammation, you have to eat a mostly whole-food diet, exercise consistently, sleep 7-9 hour per night, maintain good oral health, breathe clean air, avoid smoking and limit alcohol. It's a shocker, I know. There is no single "anti-inflammatory" food or supplement. Instead, the goal is to create an environment where your immune system spends less time in a constant state of activation.
 
 Some of the strongest evidence supports:
 
