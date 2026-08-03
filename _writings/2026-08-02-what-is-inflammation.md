@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Inflammation: What It Is and Why It Matters More Than You Think
@@ -129,4 +128,4 @@ Some of the strongest evidence supports:
 Ultimately, there is nothing particularly glamorous about reducing chronic inflammation. Eat well. Exercise regularly. Sleep enough. Maintain a healthy weight. Take care of your teeth. Don't smoke.
 
 These same habits consistently reduce the risk of cardiovascular disease, type 2 diabetes, certain cancers, and premature death. The lifestyle that supports a healthy inflammatory response is, unsurprisingly, the same lifestyle that supports a longer and healthier life.
-```
+
